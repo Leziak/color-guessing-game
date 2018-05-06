@@ -1,0 +1,70 @@
+body {
+	background-color: #232323;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Arial;
+	font-size: 40px;
+}
+
+button {
+	background-color: white;
+	border: none;
+	color: black;
+	font-family: arial;
+	padding: 5px 3px 5px 3px;
+	margin-top: -5px;
+	margin-bottom: -10px;
+}
+
+strong {
+	color: #232323;
+}
+
+button:hover {
+	background-color: rgb(110, 163, 203);
+}
+
+#guide {
+	background-color: white;
+	padding-bottom: 4px;
+	margin: 0 -20px 0 -20px;
+	padding-top: 3px;
+}
+
+#new {
+	margin-left: 410px;
+}
+
+#easy {
+	margin-left: 360px;
+}
+
+#header {
+	background-color: rgb(110, 163, 203);
+	margin: -27px -10px 0 -10px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+}
+
+#randomColorDisplay {
+	font-size: 50px;
+}
+
+#container {
+	width: 600px;
+	margin: 0 auto;
+}
+
+
+
+.square {
+	background: purple;
+	padding-bottom: 30%;
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 10%;
+}
